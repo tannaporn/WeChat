@@ -1,0 +1,12 @@
+node_modules
+*.sqlite
+src/logo.svg
+src/App.test.js
+public/manifest.json
+public/logo512.png
+public/logo192.png
+public/favicon.ico
+.vs/WeChat/v17/.wsuo
+.vs/WeChat/FileContentIndex/f2aa7223-7de0-4eac-9392-eb38b82f5af8.vsidx
+.vs/WeChat/FileContentIndex/de9dc5ee-2d69-48f4-9076-f563b51509d9.vsidx
+.vs/VSWorkspaceState.json
